@@ -8,11 +8,12 @@ Postman / Newman /  HTML / json / javascript
 #### 💫 About this test:
 Here I am test student details, recieve and update the details.
 #### 👯 HTML report:
-Here I am using "command promt" and install "Newman". Then write command = newman run PracticeAPI.postman_collection.json -e PracticeAPI.postman_environment.json -r cli,html<br><br>
+Here I am using "command promt" and install "Newman". Then write command.<br><br>
+### Command = newman run PracticeAPI.postman_collection.json -e PracticeAPI.postman_environment.json -r cli,html
 
 ![html1](https://user-images.githubusercontent.com/112747904/199396697-862f465e-9f53-4cb8-b80f-e0610b355199.PNG)
 ![html2](https://user-images.githubusercontent.com/112747904/199396744-353e7dec-75bd-4a62-b006-fb6aa46915dc.PNG)
-#### Another command is,  newman run PracticeAPI.postman_collection.json -e PracticeAPI.postman_environment.json -r cli,htmlextra
+### Command =  newman run PracticeAPI.postman_collection.json -e PracticeAPI.postman_environment.json -r cli,htmlextra
 ![HTML extra](https://user-images.githubusercontent.com/112747904/199396799-0b97b372-d1e8-4cde-959c-4f3af30530b1.PNG)
 
 #### 💻 Used Application:
